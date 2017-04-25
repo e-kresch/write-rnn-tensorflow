@@ -1,4 +1,5 @@
 ##TEST COMMENT
+##GETTING THE WORKFLOW DOWN
 ##NEW BRANCH
 ## Generative Handwriting Demo using TensorFlow
 
